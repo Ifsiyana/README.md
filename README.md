@@ -7,7 +7,8 @@ Hi there! 👋 Welcome to my GitHub profile. Here's a little about me:
 - 📊 Strong interest in **Data Analytics**, **Machine Learning**, and **IT**.  
 
 ### 🚩 **Current Projects**  
-- 🧠 Optimizing **Time Series Forecasting Models** like N-BEATS and LSTMs.  
+- 💻 Database management : **Employee Management System using SQL**
+- 🧠 Optimizing **Time Series Forecasting Models** like N-BEATS, MLP and LSTMs.  
 - 📈 Developing dashboards to visualize **football performance metrics** and uncover actionable insights.  
 - 🔧 Experimenting with **Fullstack Java Development** and **Mikrotik Network Configuration**.  
 
